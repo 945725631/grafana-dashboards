@@ -14,7 +14,7 @@
                 "tags": [
                     "pmm_annotation",
                     "$node_name",
-                    "$service"
+                    "$service_name"
                 ],
                 "type": "tags"
             },
@@ -110,7 +110,7 @@
     ],
     "panels": [
         {
-            "breadcrumbItemsMaxAmount": 25,
+            "breadcrumbItemsMaxAmount": 6,
             "datasource": null,
             "gridPos": {
                 "h": 2,
