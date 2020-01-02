@@ -41,7 +41,7 @@ const CredentialsForm = props => {
               </button>
             </div>
             <div>
-              <a href="https://www.percona.com/doc/percona-monitoring-and-management/2.x/install/aws.html#pmm-server-aws-running-instance">
+              <a href="https://www.percona.com/doc/percona-monitoring-and-management/2.x/install/aws.html#pmm-server-aws-running-instance" target="_blank">
                 Where do I get the security credentials for my amazon RDS DB instance
               </a>
             </div>
